@@ -1,0 +1,1 @@
+this.addScript('jsidoc.js',['JSIDoc'],['org.xidea.jsidoc.export:DependenceInfo','org.xidea.jsidoc.export:ExportUI','org.xidea.jsidoc.export:findPackages','org.xidea.jsidoc.util:JSON','org.xidea.jsidoc.util:loadText','org.xidea.lite:Template','org.xidea.jsi:$log'])
